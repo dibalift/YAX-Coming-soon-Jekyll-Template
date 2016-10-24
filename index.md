@@ -1,8 +1,18 @@
 ---
 layout: home
 permalink: /
-title: "Your Awesome Site"
-excerpt: "A Coming Soon Template"
+title: "دیبابران آسیا"
+excerpt: "طراحی و ساخت انواع کابین های آسانسور"
 ---
-# Website is coming soon
-Tell the users that your website is not active yet. Put the reason to subscribe for the notification in this paragraph. Tell them about their problems which you would like to solve. Don’t forget the final call to action.
+# وبسایت بزودی راه اندازی خواهد شد
+
+
+
+    کابین آسانسور با طراحی ام دی اف استیل
+    کابین آسانسور با تزئینات فرمیکا استیل
+    کابین آسانسور با طراحی و تزئینات تمام استیل لوکس
+    کابین آسانسور با تزئینات و طراحی شیشه ای و پانامرا
+    کابین آسانسور با دیواره گالوانیزه و کف پارکت یا سنگ
+
+شرکت دیبابران آسیا با مدیریت اصغر صیدی 
+تلفن تماس : ۰۹۱۸۸۳۱۹۶۵۷

@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "شرکت دیبابران آسیا"
+description: "طراحی و ساخت کابین آسانسور"
 #if you modify locale please have a look at _data/messages.yml too
-locale: en
+locale: fa
 #for meta name="author" :
 author: 
 
@@ -18,8 +18,8 @@ countdown:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: اصغر صیدی
+  email: 
   twitter:
   google-plus:
   instagramm:
